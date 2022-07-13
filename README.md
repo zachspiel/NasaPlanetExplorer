@@ -2,6 +2,8 @@
 
 NASA Planet Explorer is React and Spring application for displaying all available explopanets from NASA's archive.
 
+![Demo of NASA Planet Explorer](./public/images/demo.png?raw=true "NASA Planet Explorer demo")
+
 ## Run Locally
 
 Clone the project
@@ -45,3 +47,5 @@ Start both frontend and server simultaneously
 - Add unit tests to server
 
 - Add more functionality to front end for better filtering and searching
+
+- Decrease initial start up time
